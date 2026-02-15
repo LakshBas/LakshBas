@@ -4,11 +4,11 @@
 
 📊 I specialize in:
 
-#Power BI & Data Visualization
+->Power BI & Data Visualization
 
-#SQL & Excel for Data Analysis
+->SQL & Excel for Data Analysis
 
-#Business & Marketing Analytics
+->Business & Marketing Analytics
 
 💼 Projects included in this portfolio:
 
