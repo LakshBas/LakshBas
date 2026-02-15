@@ -17,6 +17,7 @@
 #E-commerce Sales Analysis
 #Employee Well-being Analysis
 #BMW Sales Performance Analysis
+#Food Delivery Marketplace Performance Analysis
 
 🚀 My goal is to leverage data to solve real-world business problems and support data-driven decision-making.
 
