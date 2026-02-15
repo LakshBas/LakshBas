@@ -1,16 +1,23 @@
-## Hi there 👋
+👋 Hi, I'm Lakshmi Devi Baskar!
+🎓 MBA Graduate with a strong interest in Data Analytics and Business Intelligence.
 
-<!--
-**LakshBas/LakshBas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 I specialize in:
 
-Here are some ideas to get you started:
+Power BI & Data Visualization
+SQL & Excel for Data Analysis
+Business & Marketing Analytics
+💼 Projects included in this portfolio:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+OTT Subscription Analysis
+Dark Social & Ghibli Trend Analysis
+Bank Customer Behavior Analysis
+Pharma Supply Chain Analysis
+E-commerce Sales Analysis
+Employee Well-being Analysis
+BMW Sales Performance Analysis
+🚀 My goal is to leverage data to solve real-world business problems and support data-driven decision-making.
+
+📫 Connect with me:
+
+LinkedIn: (www.linkedin.com/in/lakshmi-devi-bas)
+GitHub: (https://github.com/LakshBas)
