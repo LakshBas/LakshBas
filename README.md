@@ -18,6 +18,7 @@
 #Employee Well-being Analysis
 #BMW Sales Performance Analysis
 #Food Delivery Marketplace Performance Analysis
+#Marketing Campaign Performance Analysis (Tableau)
 
 🚀 My goal is to leverage data to solve real-world business problems and support data-driven decision-making.
 
