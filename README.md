@@ -1,22 +1,20 @@
 👋 Hi, I'm Lakshmi Devi Baskar!
 
-🎓 MBA Graduate with a strong interest in Data Analytics and Business Intelligence.
-
+🎓 MBA Graduate with a strong interest in Analyst (HR & Marketing Analytics).
 📊 I specialize in:
 
 ->Power BI & Data Visualization
-->SQL & Excel for Data Analysis
 ->Business & Marketing Analytics
 
 💼 Projects included in this portfolio:
 
 #OTT Subscription Analysis  
 #Dark Social & Ghibli Trend Analysis  
-#Bank Customer Behavior Analysis   
-#Pharma Supply Chain Analysis
 #E-commerce Sales Analysis
 #Employee Well-being Analysis
 #BMW Sales Performance Analysis
+#Bank Customer Behavior Analysis   
+#Pharma Supply Chain Analysis
 #Food Delivery Marketplace Performance Analysis
 #Marketing Campaign Performance Analysis (Tableau)
 
