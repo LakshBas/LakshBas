@@ -24,6 +24,6 @@
 
 📫 Connect with me:
 
-LinkedIn: (www.linkedin.com/in/lakshmi-devi-bas)
+LinkedIn: (www.linkedin.com/in/lakshmidevibaskar)
 
 GitHub: (https://github.com/LakshBas)
