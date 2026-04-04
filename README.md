@@ -1,10 +1,20 @@
-👋 Hi, I'm Lakshmi Devi Baskar!
+👋  Hi, I'm Lakshmi Devi Baskar  
+MBA Graduate | Aspiring Digital Marketing Analyst  
 
-🎓 MBA Graduate with a strong interest in Analyst (HR & Marketing Analytics).
-📊 I specialize in:
+🔍 I specialize in:
+- Social Media Analytics  
+- Marketing Campaign Performance  
+- Customer Behavior Analysis  
 
-->Power BI & Data Visualization
-->Business & Marketing Analytics
+📊 Tools:
+Power BI | SQL | Excel | Google Analytics | HubSpot  | Tableau
+
+🚀 Projects:
+- Social Media Analytics Dashboard  
+- Dark Social Marketing Analysis  
+- E-commerce Customer Insights  
+
+💡 Passionate about turning data into marketing strategies.
 
 💼 Projects included in this portfolio:
 
