@@ -1,10 +1,8 @@
 👋  Hi, I'm Lakshmi Devi Baskar  
-MBA Graduate | Aspiring Digital Marketing Analyst  
+MBA Graduate | Aspiring KYC Analyst 
 
 🔍 I specialize in:
-- Social Media Analytics  
-- Marketing Campaign Performance  
-- Customer Behavior Analysis  
+- Aspiring KYC Analyst | AML/KYC | Client Onboarding | Banking Operations | Financial Services 
 
 📊 Tools:
 Power BI | SQL | Excel | Google Analytics | HubSpot  | Tableau
